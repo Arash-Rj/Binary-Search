@@ -1,0 +1,14 @@
+C:\Users\Mr. X\source\repos\binary search\binary search\bin\Debug\net8.0\binary search.exe
+C:\Users\Mr. X\source\repos\binary search\binary search\bin\Debug\net8.0\binary search.deps.json
+C:\Users\Mr. X\source\repos\binary search\binary search\bin\Debug\net8.0\binary search.runtimeconfig.json
+C:\Users\Mr. X\source\repos\binary search\binary search\bin\Debug\net8.0\binary search.dll
+C:\Users\Mr. X\source\repos\binary search\binary search\bin\Debug\net8.0\binary search.pdb
+C:\Users\Mr. X\source\repos\binary search\binary search\obj\Debug\net8.0\binary search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. X\source\repos\binary search\binary search\obj\Debug\net8.0\binary search.AssemblyInfoInputs.cache
+C:\Users\Mr. X\source\repos\binary search\binary search\obj\Debug\net8.0\binary search.AssemblyInfo.cs
+C:\Users\Mr. X\source\repos\binary search\binary search\obj\Debug\net8.0\binary search.csproj.CoreCompileInputs.cache
+C:\Users\Mr. X\source\repos\binary search\binary search\obj\Debug\net8.0\binary search.dll
+C:\Users\Mr. X\source\repos\binary search\binary search\obj\Debug\net8.0\refint\binary search.dll
+C:\Users\Mr. X\source\repos\binary search\binary search\obj\Debug\net8.0\binary search.pdb
+C:\Users\Mr. X\source\repos\binary search\binary search\obj\Debug\net8.0\binary search.genruntimeconfig.cache
+C:\Users\Mr. X\source\repos\binary search\binary search\obj\Debug\net8.0\ref\binary search.dll
